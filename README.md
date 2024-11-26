@@ -1,1 +1,1 @@
-STAT 6650 Statistical Learning Final Project
+STAT 6000 Group 2 Final Project
